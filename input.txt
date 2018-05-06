@@ -1,0 +1,6 @@
+1 batman dc 4.99
+2 superman dc 5.99
+3 catwomen dc 6.99
+5 xmen marvel 10.99
+21 wolverene marvel 12.99
+22 titans anime 15.99
